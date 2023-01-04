@@ -5,7 +5,7 @@
 
 ##
 
-<div align="center">
+<div style="display: inline_block"><br>
   <a href="https://github.com/jamyssergio">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jamyssergio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamyssergio&layout=compact&langs_count=7&theme=dark"/>
