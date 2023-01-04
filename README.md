@@ -1,4 +1,4 @@
-###  👋 Ola! sou Jamys sergio, estudante de desenvolvimento web e tecnologia!
+##  👋 Ola! sou Jamys Sérgio, estudante de desenvolvimento web e tecnologia!
 
 - 🔭 Atualmente trabalho como gerente comecial
 - 🌱 Estou estudando HTML5 e CSS3
@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/jamyssergio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamyssergio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamyssergio&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamyssergio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamyssergio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
