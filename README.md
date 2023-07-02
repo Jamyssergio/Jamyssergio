@@ -1,7 +1,7 @@
 ##  👋 Ola! sou Jamys Sérgio, estudante de desenvolvimento web e tecnologia!
 
 - 🔭 Atualmente trabalho como gerente comecial
-- 🌱 Estou estudando HTML5 e CSS3
+- 🌱 Estou estudando HTML5, CSS3 e JS.
 
 ##
 
